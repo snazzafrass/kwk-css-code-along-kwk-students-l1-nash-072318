@@ -1,1 +1,23 @@
 /* add CSS class and element and selectors here */
+
+h1 {color:#BA0000;}
+h2 {color:#E0A93A;}
+
+h3 {color:#6BE500;}
+p {color:#0091E0;}
+
+.example {
+  color:yellow;
+  font-size:20px;
+}
+
+body {
+      background-color: #AB96EA;
+      font-size: 150%;
+    }
+
+ .myClass {
+      background-color: #E29700;
+      color: #BA0000
+    }
+  
